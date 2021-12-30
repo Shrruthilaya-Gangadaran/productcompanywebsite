@@ -3,8 +3,8 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background-image: url("https://wallpaperaccess.com/full/58334.jpg");
-  color: #17421d;
+  background-color: rgb(26, 29, 29);
+  color: whitesmoke;
 }
 .container {
   width: 1080px;
@@ -20,9 +20,9 @@ body {
   width: 100%;
   height: 250px;
   text-align: center;
+  font-size: 60px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
-  font-size: 60px;
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
@@ -62,7 +62,7 @@ body {
 .content {
   display: block;
   width: 100%;
-  background-image: url("https://s3.envato.com/files/264967564/IMG_8996.jpg");
+  background-image: url("https://t4.ftcdn.net/jpg/04/09/70/87/360_F_409708782_HxuxOH8f7xSmj5p4ygbAbuJE74vGGj2N.jpg");
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
